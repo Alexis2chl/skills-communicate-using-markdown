@@ -5,3 +5,6 @@
 ``
 # var myVar = "Bienvenido!"; #
 ```
+
+- [x] Titulacion de carrera
+- [ ] Estudiando
